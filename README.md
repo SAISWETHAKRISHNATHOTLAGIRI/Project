@@ -7,7 +7,7 @@ This is a web based application developed for skin and beauty care for men & wom
 
 
 Project Link -https://witty-desert-03fca5d00.2.azurestaticapps.net/
-project demo video link- 
+project demo video link- https://youtu.be/jE3qRd6ZaMk
 
 ## Azure technologies used for Project
 
